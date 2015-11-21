@@ -2,3 +2,5 @@ Jacob: Everyone, this is a really good idea. I propose we use this from now on
 Thu Nov 19 17:18:28 EST 2015
 Andrew: Genius.
 Thu Nov 19 21:23:44 EST 2015
+Steven: If we wanted, we could write a Slack bot that committed to this file.
+Thu Nov 20 21:39:33 EST 2015
